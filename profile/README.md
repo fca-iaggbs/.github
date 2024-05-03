@@ -49,7 +49,7 @@ Find an example of this type of [repository](https://github.com/Iberia-Ent/softw
 #### Best Practices
 Source of True and best practices in a specific technology gathered from experiences, "trial and error” and official documentation research, ready-to-adopt.
 
-Find an example of this type of [repository](https://github.com/Iberia-Ent/software-engineering--iac--terraform--best-practices).
+Find an example of this type of [repository](https://github.com/Iberia-Ent/software-engineering--best-practices).
 
 #### Getting Started
 Starting projects for a specific technology, focusing on Best Practises with integrated examples ready-to-use. You don’t need to start from scratch. 
